@@ -1,0 +1,15 @@
+MasterCard\Api\MerchantRetailLocations\MerchantIndustries
+ [x] example merchant industries
+
+MasterCard\Api\MerchantRetailLocations\RetailUnitMerchants
+ [x] example retail unit merchants
+
+MasterCard\Api\MerchantRetailLocations\RetailUnitsMetrics
+ [x] example retail unit metrics
+
+MasterCard\Api\MerchantRetailLocations\RetailUnits
+ [x] example retail units
+
+MasterCard\Api\MerchantRetailLocations\Subscriptions
+ [x] example subscriptions mrli
+
