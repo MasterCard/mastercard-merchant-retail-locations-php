@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="5" assertions="119" failures="0" errors="0" time="4.815153">
+    <testsuite name="MasterCard\Api\RetailLocationInsights\MerchantIndustriesTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-RetailLocationInsights-Php/workspace/generated-code/retail-location-insights/php/sdk/Test/MasterCard/Api/RetailLocationInsights/MerchantIndustriesTest.php" tests="1" assertions="12" failures="0" errors="0" time="0.961343">
+      <testcase name="test_example_merchant_industries" class="MasterCard\Api\RetailLocationInsights\MerchantIndustriesTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-RetailLocationInsights-Php/workspace/generated-code/retail-location-insights/php/sdk/Test/MasterCard/Api/RetailLocationInsights/MerchantIndustriesTest.php" line="59" assertions="12" time="0.961343"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\RetailLocationInsights\RetailUnitMerchantsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-RetailLocationInsights-Php/workspace/generated-code/retail-location-insights/php/sdk/Test/MasterCard/Api/RetailLocationInsights/RetailUnitMerchantsTest.php" tests="1" assertions="58" failures="0" errors="0" time="1.322154">
+      <testcase name="test_example_retail_unit_merchants" class="MasterCard\Api\RetailLocationInsights\RetailUnitMerchantsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-RetailLocationInsights-Php/workspace/generated-code/retail-location-insights/php/sdk/Test/MasterCard/Api/RetailLocationInsights/RetailUnitMerchantsTest.php" line="59" assertions="58" time="1.322154"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\RetailLocationInsights\RetailUnitsMetricsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-RetailLocationInsights-Php/workspace/generated-code/retail-location-insights/php/sdk/Test/MasterCard/Api/RetailLocationInsights/RetailUnitsMetricsTest.php" tests="1" assertions="35" failures="0" errors="0" time="0.876989">
+      <testcase name="test_example_retail_unit_metrics" class="MasterCard\Api\RetailLocationInsights\RetailUnitsMetricsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-RetailLocationInsights-Php/workspace/generated-code/retail-location-insights/php/sdk/Test/MasterCard/Api/RetailLocationInsights/RetailUnitsMetricsTest.php" line="59" assertions="35" time="0.876989"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\RetailLocationInsights\RetailUnitsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-RetailLocationInsights-Php/workspace/generated-code/retail-location-insights/php/sdk/Test/MasterCard/Api/RetailLocationInsights/RetailUnitsTest.php" tests="1" assertions="14" failures="0" errors="0" time="0.911267">
+      <testcase name="test_example_retail_units" class="MasterCard\Api\RetailLocationInsights\RetailUnitsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-RetailLocationInsights-Php/workspace/generated-code/retail-location-insights/php/sdk/Test/MasterCard/Api/RetailLocationInsights/RetailUnitsTest.php" line="59" assertions="14" time="0.911267"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\RetailLocationInsights\SubscriptionsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-RetailLocationInsights-Php/workspace/generated-code/retail-location-insights/php/sdk/Test/MasterCard/Api/RetailLocationInsights/SubscriptionsTest.php" tests="1" assertions="0" failures="0" errors="0" time="0.743400">
+      <testcase name="test_example_subscriptions_mrli" class="MasterCard\Api\RetailLocationInsights\SubscriptionsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-RetailLocationInsights-Php/workspace/generated-code/retail-location-insights/php/sdk/Test/MasterCard/Api/RetailLocationInsights/SubscriptionsTest.php" line="59" assertions="0" time="0.743400"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

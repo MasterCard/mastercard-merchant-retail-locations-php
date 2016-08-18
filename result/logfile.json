@@ -1,0 +1,90 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 5
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\RetailLocationInsights\\MerchantIndustriesTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\RetailLocationInsights\\MerchantIndustriesTest",
+    "test": "MasterCard\\Api\\RetailLocationInsights\\MerchantIndustriesTest::test_example_merchant_industries"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\RetailLocationInsights\\MerchantIndustriesTest",
+    "test": "MasterCard\\Api\\RetailLocationInsights\\MerchantIndustriesTest::test_example_merchant_industries",
+    "status": "pass",
+    "time": 0.96134305000305,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\RetailLocationInsights\\RetailUnitMerchantsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\RetailLocationInsights\\RetailUnitMerchantsTest",
+    "test": "MasterCard\\Api\\RetailLocationInsights\\RetailUnitMerchantsTest::test_example_retail_unit_merchants"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\RetailLocationInsights\\RetailUnitMerchantsTest",
+    "test": "MasterCard\\Api\\RetailLocationInsights\\RetailUnitMerchantsTest::test_example_retail_unit_merchants",
+    "status": "pass",
+    "time": 1.322154045105,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\RetailLocationInsights\\RetailUnitsMetricsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\RetailLocationInsights\\RetailUnitsMetricsTest",
+    "test": "MasterCard\\Api\\RetailLocationInsights\\RetailUnitsMetricsTest::test_example_retail_unit_metrics"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\RetailLocationInsights\\RetailUnitsMetricsTest",
+    "test": "MasterCard\\Api\\RetailLocationInsights\\RetailUnitsMetricsTest::test_example_retail_unit_metrics",
+    "status": "pass",
+    "time": 0.87698912620544,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\RetailLocationInsights\\RetailUnitsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\RetailLocationInsights\\RetailUnitsTest",
+    "test": "MasterCard\\Api\\RetailLocationInsights\\RetailUnitsTest::test_example_retail_units"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\RetailLocationInsights\\RetailUnitsTest",
+    "test": "MasterCard\\Api\\RetailLocationInsights\\RetailUnitsTest::test_example_retail_units",
+    "status": "pass",
+    "time": 0.91126704216003,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\RetailLocationInsights\\SubscriptionsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\RetailLocationInsights\\SubscriptionsTest",
+    "test": "MasterCard\\Api\\RetailLocationInsights\\SubscriptionsTest::test_example_subscriptions_mrli"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\RetailLocationInsights\\SubscriptionsTest",
+    "test": "MasterCard\\Api\\RetailLocationInsights\\SubscriptionsTest::test_example_subscriptions_mrli",
+    "status": "pass",
+    "time": 0.74340009689331,
+    "trace": [],
+    "message": "",
+    "output": ""
+}
