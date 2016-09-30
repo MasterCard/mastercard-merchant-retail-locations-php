@@ -1,0 +1,7 @@
+TAP version 13
+ok 1 - MasterCard\Api\RetailLocationInsights\MerchantIndustriesTest::test_example_merchant_industries
+ok 2 - MasterCard\Api\RetailLocationInsights\RetailUnitMerchantsTest::test_example_retail_unit_merchants
+ok 3 - MasterCard\Api\RetailLocationInsights\RetailUnitsMetricsTest::test_example_retail_unit_metrics
+ok 4 - MasterCard\Api\RetailLocationInsights\RetailUnitsTest::test_example_retail_units
+ok 5 - MasterCard\Api\RetailLocationInsights\SubscriptionsTest::test_example_subscriptions_mrli
+1..5
